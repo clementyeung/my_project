@@ -43,4 +43,6 @@ Using the the pre-trained model:
 4. After the code finished running, you should find test_battery_01.jpg in the classification folder
 
 
-[View a video explanation here](video link)
+Here is a video explanation and demonstration of garbage_classification: 
+
+https://drive.google.com/file/d/1WArM5DAih5ifPwNCEu2w6BYKh83axg42/view?usp=sharing 
